@@ -103,7 +103,7 @@
 - [Unity](http://japan.unity3d.com/)
 
 ## 職務経歴
-### 2017/05 - : CBcloud株式会社
+### 2017/05 - : [CBcloud株式会社](http://cb-cloud.com/)
 職務：フロントエンドエンジニア
 
 #### 配送マッチングサービス開発
