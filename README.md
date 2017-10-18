@@ -10,6 +10,7 @@
 |teratail|[yamato_hikawa](https://teratail.com/users/yamato_hikawa)|
 |CodePen|[yama-t](https://codepen.io/yama-t)|
 |Twitter|[@yamato_hal](https://twitter.com/yamato_hal)|
+|Wantedly|[Yamato](https://www.wantedly.com/users/18293965)|
 
 ## スキル
 
