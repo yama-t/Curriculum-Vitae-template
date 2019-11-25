@@ -17,17 +17,18 @@
 ### 言語
 
 - HTML
- - HTML5
- - Slim
+  - HTML5
+  - Slim
 - CSS
- - SASS
- - Stylus
+  - SASS
+  - Stylus
+  - ECSS
 - JavaScript
- - ES2015+
- - jQuery
+  - ES2015+
+  - jQuery
 - Java（初級）
 - 日本語
- - ネイティブ
+  - ネイティブ
 - 英語
   - リファレンス、英語の質疑応答を読める
 
@@ -35,9 +36,7 @@
 簡単なコンポーネントを作成。
 
 - [Vue.js](https://jp.vuejs.org/)
-
-入門程度。
-
+  - [Nuxt.js](https://ja.nuxtjs.org/guide/)
 - [React](https://facebook.github.io/react/)
 - [Riot](http://riotjs.com/ja/)
 - [AngularJS](https://angularjs.org/)
@@ -92,11 +91,11 @@
 
 ## 強み
 - 社内での知見共有を積極的に行っている。
- - [フロントエンドエンジニアとして心がけていること](http://qiita.com/yama-t/items/655c40d99b13d4aee29e)
+  - [フロントエンドエンジニアとして心がけていること](http://qiita.com/yama-t/items/655c40d99b13d4aee29e)
 - ドキュメント作成力。
- - 学生時代にWikiコンテンツを5000回以上編集。
- - 社内共有用の記事を300以上作成。
- - ゲームの攻略Wikiの作成・編集。
+  - 学生時代にWikiコンテンツを5000回以上編集。
+  - 社内共有用の記事を300以上作成。
+  - ゲームの攻略Wikiの作成・編集。
 
 ## やったことはないが興味があるもの
 - 人工知能
@@ -105,23 +104,29 @@
 
 ## 職務経歴
 ### 2017/05 - : [CBcloud株式会社](http://cb-cloud.com/)
-職務：フロントエンドエンジニア
+職務：フロントエンドエンジニア → エンジニア
 
 #### 配送マッチングサービス開発
-- 荷主とドライバーのマッチングプラットフォーム
+2017年に入社した当初はフロントエンドのみ担当していたが、
+同年からScala、Rubyを学び、実装するようになった。
+
+##### フロントエンド
 - PayPal実装（HTML部分）
 - フロントエンド部分のデザイン改修
 - 機能追加の際のフロントエンド実装
 
+##### バックエンド
+- ScalaAPI実装・改修
+- RailsAPI実装・改修
+- DB設計
+
 ##### 開発環境
 - Scala
+  - Play2 Framework 
+- Ruby on Rails
 - AngularJS
-
-#### サービスLP作成
-- デザイン作成（既存PSDを元に色味・雰囲気の修正）
-- HTML、CSSコーディング
-  - レスポンシブ対応
-  - SEO対応
+- Vue.js, Nuxt.js
+- GitHub
 
 ### 2014/04 - 2017/05 : 株式会社レイハウオリ
 職務：フロントエンドエンジニア
@@ -134,6 +139,11 @@
 - 既存サイトのリニューアル。
 - SASS(Compass)の利用。
 - KSSを利用したスタイルガイドの作成。
+
+##### 開発環境
+- Backlog
+- grunt, gulp
+- Slack
 
 #### 飲食店検索・予約
 **学んだこと**
@@ -148,6 +158,12 @@
 - LPの作成（イメージマップを使い、マウスホバーホバー、タップで部分的に表示が切り替わる）
  - 記事：[イメージマップの出力](http://qiita.com/yama-t/items/a6b3406e052c1aac6259)
 
+
+##### 開発環境
+- SVN
+- Redmine -> JIRA
+- Confluence
+- Hipchat -> Slack
 
 #### 美容室検索・予約
 **学んだこと**
@@ -165,6 +181,13 @@
 - それまで採用していなかったSlim + Railsの開発環境をチームメンバーに導入しやすくするため、手始めの段階をドキュメント化。
 - サイトリニューアル後のUIをfrontnoteを用いてスタイルガイド化した。
 - チームメンバーのJavaScriptおよびjQuery研修の講師。
+
+##### 開発環境
+- SVN
+- GitHub Enterprise
+- JIRA
+- Confluence
+- Slack
 
 ### 2012/02 - 2013/06: ソーケン株式会社
 
