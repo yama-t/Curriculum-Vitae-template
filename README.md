@@ -25,23 +25,27 @@
   - ECSS
 - JavaScript
   - ES2015+
+  - Vue.js
+  - Nuxt.js
   - jQuery
-- Java（初級）
+- Scala
+- Ruby on Rails
 - 日本語
   - ネイティブ
 - 英語
   - リファレンス、英語の質疑応答を読める
 
 ### フレームワーク
-簡単なコンポーネントを作成。
-
+#### 実務経験あり
 - [Vue.js](https://jp.vuejs.org/)
   - [Nuxt.js](https://ja.nuxtjs.org/guide/)
-- [React](https://facebook.github.io/react/)
-- [Riot](http://riotjs.com/ja/)
 - [AngularJS](https://angularjs.org/)
-- [knockoutjs](http://knockoutjs.com/)
 - Ruby on Rails
+- [React](https://facebook.github.io/react/)（LP改修程度）
+
+#### 使ってみたことがある
+- [Riot](http://riotjs.com/ja/)
+- [knockoutjs](http://knockoutjs.com/)
 - [Electron](http://electron.atom.io/)
 
 ### コード
@@ -50,24 +54,26 @@
 
 ### その他
 #### エディタ
+- [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 
 #### ツール
 - Git
-- SVN
 - SourceTree
 - Slack
 - PhotoShop
 
 #### 知見共有
 - [esa](https://esa.io/)
+- [kibela](https://kibe.la/ja)
 - [Confluence](https://ja.atlassian.com/software/confluence)
 
 #### タスク管理
 - [JIRA](https://ja.atlassian.com/software/jira)
 - [Backlog](http://www.backlog.jp/)
 - [Redmine](http://redmine.jp/)
+- [Asana](https://asana.com/ja)
 
 #### タスクランナー
 - gulp
@@ -106,12 +112,14 @@
 ### 2017/05 - : [CBcloud株式会社](http://cb-cloud.com/)
 職務：フロントエンドエンジニア → エンジニア
 
-#### 配送マッチングサービス開発
-2017年に入社した当初はフロントエンドのみ担当していたが、
-同年からScala、Rubyを学び、実装するようになった。
+#### 配送クラウドソーシングサービス「PickGo」開発
+下記のサービスを担当
+
+- PickGo for Business（荷主向け）
+- PickGo for Driver（ドライバー向け）
+- PickGo for Personal（個人向け）
 
 ##### フロントエンド
-- PayPal実装（HTML部分）
 - フロントエンド部分のデザイン改修
 - 機能追加の際のフロントエンド実装
 
@@ -120,6 +128,13 @@
 - RailsAPI実装・改修
 - DB設計
 
+##### 代表的なもの
+- PickGo Personal立ち上げ時のフロントエンド
+- ANACargo連携フロントエンド
+- Scala・Ruby併用に伴うユーザー認証方法変更
+- 管理側データ修正機能
+- ScalaコードのSQLクエリチューニング
+
 ##### 開発環境
 - Scala
   - Play2 Framework 
@@ -127,6 +142,15 @@
 - AngularJS
 - Vue.js, Nuxt.js
 - GitHub
+
+##### Contributions
+
+|年|数|
+|---|---|
+|2017|1059|
+|2018|1601|
+|2019|2396|
+|2020(3月時点)|624|
 
 ### 2014/04 - 2017/05 : 株式会社レイハウオリ
 職務：フロントエンドエンジニア
